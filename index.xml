@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="food.xsl"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<person id="0">
+      <first-name>US</first-name>
+      <last-name>United States</last-name>
+      
+         <street>48810868</street>
+         <city>48554692</city>
+         <state>49067044</state>
+         <country>15.8</country>
+         <zip>15.7</zip>
+      
+   </person>
+
+   <person id="1">
+      <first-name>AL</first-name>
+      <last-name>Alabama</last-name>
+      
+         <street>889091</street>
+         <city>873141</city>
+         <state>905041</state>
+         <country>18.9</country>
+         <zip>18.6</zip>
+      
+   </person>
+
+   <person id="2">
+      <first-name>AK</first-name>
+      <last-name>Alaska</last-name>
+      
+         <street>72643</street>
+         <city>69056</city>
+         <state>76230</state>
+         <country>10.1</country>
+         <zip>9.6</zip>
+    
+   </person>
+
+   <person id="4">
+      <first-name>AZ</first-name>
+      <last-name>Arizona</last-name>
+     
+         <street>1206948</street>
+         <city>1184107</city>
+         <state>1229789</state>
+         <country>18.6</country>
+         <zip>18.2</zip>
+     
+   </person>
+
+   <person id="5">
+      <first-name>AR</first-name>
+      <last-name>Arkansas</last-name>
+      
+         <street>557399</street>
+         <city>545273</city>
+         <state>569525</state>
+         <country>19.4</country>
+         <zip>19</zip>
+     
+   </person>
+
+   <person id="6">
+      <first-name>CA</first-name>
+      <last-name>California</last-name>
+      
+         <street>6328064</street>
+         <city>6276939</city>
+         <state>6379189</state>
+         <country>16.8</country>
+         <zip>16.7</zip>
+     
+   </person>
+
+   <person id="8">
+      <first-name>CO</first-name>
+      <last-name>Colorado</last-name>
+     
+         <street>665351</street>
+         <city>650221</city>
+         <state>680481</state>
+         <country>12.9</country>
+         <zip>12.6</zip>
+     
+   </person>
+
+   <person id="9">
+      <first-name>CT</first-name>
+      <last-name>Connecticut</last-name>
+      
+         <street>373387</street>
+         <city>362267</city>
+         <state>384507</state>
+         <country>10.7</country>
+         <zip>10.4</zip>
+      
+   </person>
+
+   <person id="10">
+      <first-name>DE</first-name>
+      <last-name>Delaware</last-name>
+      
+         <street>115774</street>
+         <city>109967</city>
+         <state>121581</state>
+         <country>12.9</country>
+         <zip>12.3</zip>
+      
+   </person>
+
+   <person id="11">
+      <first-name>DC</first-name>
+      <last-name>District of Columbia</last-name>
+      
+         <street>115096</street>
+         <city>109640</city>
+         <state>120552</state>
+         <country>18.8</country>
+         <zip>17.9</zip>
+     
+   </person>
+
+   <person id="12">
+      <first-name>FL</first-name>
+      <last-name>Florida</last-name>
+      
+         <street>3268130</street>
+         <city>3223891</city>
+         <state>3312369</state>
+         <country>17.1</country>
+         <zip>16.9</zip>
+     
+   </person>
+
+   <person id="13">
+      <first-name>GA</first-name>
+      <last-name>Georgia</last-name>
+      
+         <street>1849944</street>
+         <city>1823426</city>
+         <state>1876462</state>
+         <country>19</country>
+         <zip>18.7</zip>
+     
+   </person>
+
+   <person id="15">
+      <first-name>HI</first-name>
+      <last-name>Hawaii</last-name>
+     
+         <street>153375</street>
+         <city>146661</city>
+         <state>160089</state>
+         <country>11.2</country>
+         <zip>10.7</zip>
+     
+   </person>
+
+   <person id="16">
+      <first-name>ID</first-name>
+      <last-name>Idaho</last-name>
+     
+         <street>246708</street>
+         <city>237342</city>
+         <state>256074</state>
+         <country>15.6</country>
+         <zip>15</zip>
+     
+   </person>
+
+   <person id="17">
+      <first-name>IL</first-name>
+      <last-name>Illinois</last-name>
+     
+         <street>1841996</street>
+         <city>1815888</city>
+         <state>1868104</state>
+         <country>14.6</country>
+         <zip>14.4</zip>
+    
+   </person>
+
+   <person id="18">
+      <first-name>IN</first-name>
+      <last-name>Indiana</last-name>
+     
+         <street>1008411</street>
+         <city>990634</city>
+         <state>1026188</state>
+         <country>15.8</country>
+         <zip>15.5</zip>
+     
+   </person>
+
+   <person id="19">
+      <first-name>IA</first-name>
+      <last-name>Iowa</last-name>
+     
+         <street>377037</street>
+         <city>367316</city>
+         <state>386758</state>
+         <country>12.6</country>
+         <zip>12.3</zip>
+     
+   </person>
+
+   <person id="20">
+      <first-name>KS</first-name>
+      <last-name>Kansas</last-name>
+      
+         <street>391718</street>
+         <city>380565</city>
+         <state>402871</state>
+         <country>13.9</country>
+         <zip>13.5</zip>
+      
+   </person>
+
+   <person id="21">
+      <first-name>KY</first-name>
+      <last-name>Kentucky</last-name>
+     
+         <street>803044</street>
+         <city>788501</city>
+         <state>817587</state>
+         <country>18.8</country>
+         <zip>18.5</zip>
+     
+   </person>
+   <person id="24">
+      <first-name>MD</first-name>
+      <last-name>Maryland</last-name>
+     
+         <street>591457</street>
+         <city>576662</city>
+         <state>606252</state>
+         <country>10.2</country>
+         <zip>9.9</zip>
+     
+   </person>
+
+   <person id="25">
+      <first-name>MA</first-name>
+      <last-name>Massachusetts</last-name>
+      
+         <street>770922</street>
+         <city>753652</city>
+         <state>788192</state>
+         <country>11.9</country>
+         <zip>11.6</zip>
+      
+   </person>
+
+   <person id="26">
+      <first-name>MI</first-name>
+      <last-name>Michigan</last-name>
+      
+         <street>1646038</street>
+         <city>1625685</city>
+         <state>1666391</state>
+         <country>17</country>
+         <zip>16.8</zip>
+     
+   </person>
+
+   <person id="27">
+      <first-name>MN</first-name>
+      <last-name>Minnesota</last-name>
+      
+         <street>592526</street>
+         <city>580125</city>
+         <state>604927</state>
+         <country>11.2</country>
+         <zip>11</zip>
+      
+   </person>
+
+   <person id="28">
+      <first-name>MS</first-name>
+      <last-name>Mississippi</last-name>
+      
+         <street>692058</street>
+         <city>677339</city>
+         <state>706777</state>
+         <country>23.9</country>
+         <zip>23.4</zip>
+      
+   </person>
+ 
+   <person id="29">
+      <first-name>MO</first-name>
+      <last-name>Missouri</last-name>
+      
+         <street>928778</street>
+         <city>910924</city>
+         <state>946632</state>
+         <country>15.8</country>
+         <zip>15.5</zip>
+      
+   </person>
+
+   <person id="30">
+      <first-name>MT</first-name>
+      <last-name>Montana</last-name>
+      
+         <street>159248</street>
+         <city>153605</city>
+         <state>164891</state>
+         <country>16.1</country>
+         <zip>15.5</zip>
+      
+   </person>
+  <person id="31">
+      <first-name>NE</first-name>
+      <last-name>Nebraska</last-name>
+      
+         <street>234742</street>
+         <city>227326</city>
+         <state>242158</state>
+         <country>12.9</country>
+         <zip>12.5</zip>
+      
+   </person>
+
+   <person id="32">
+      <first-name>NV</first-name>
+      <last-name>Nevada</last-name>
+      
+         <street>433267</street>
+         <city>421242</city>
+         <state>445292</state>
+         <country>15.8</country>
+         <zip>15.4</zip>
+      
+   </person>
+
+   <person id="33">
+      <first-name>NH</first-name>
+      <last-name>New Hampshire</last-name>
+      
+         <street>115146</street>
+         <city>108939</city>
+         <state>121353</state>
+         <country>9</country>
+         <zip>8.5</zip>
+      
+   </person>
+
+   <person id="34">
+      <first-name>NJ</first-name>
+      <last-name>New Jersey</last-name>
+      
+         <street>995390</street>
+         <city>975579</city>
+         <state>1015201</state>
+         <country>11.4</country>
+         <zip>11.2</zip>
+      
+   </person>
+</list>
